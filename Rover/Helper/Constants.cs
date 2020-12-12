@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Rover.Helper
+﻿namespace Rover.Helper
 {
     public static class Constants
     {
